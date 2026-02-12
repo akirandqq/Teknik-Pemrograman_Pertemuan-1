@@ -1,4 +1,4 @@
-public class Constants2 
+public class Constants2_2 // Soal nomor 2, bagian 2 
 {
     public static final double CM_PER_INCH = 2.54;
     

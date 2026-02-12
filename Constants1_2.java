@@ -1,4 +1,4 @@
-public class Constants {
+public class Constants1_2 { // Soal nomor 2 bagian 1
     public static void main(String[] args) 
     { 
         final double CM_PER_INCH = 2.54; 

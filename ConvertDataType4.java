@@ -1,4 +1,4 @@
-public class ConvertDataType {
+public class ConvertDataType4 { // Soal nomor 4
     
     static short methodOne(long l) {
         int i = (int) l;

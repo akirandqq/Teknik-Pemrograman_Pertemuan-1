@@ -1,4 +1,4 @@
-public class FloatingPoint {
+public class FloatingPoint3 { // Soal nomor 3
     public static void main(String[] args) {
         double x = 92.98;
         
